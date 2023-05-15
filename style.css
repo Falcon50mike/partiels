@@ -1,0 +1,72 @@
+.princip{
+    
+    background-color:rgb(36, 36, 36);
+    display: flex;
+    padding: 50%;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+.ender{
+    justify-content: left;
+    margin-top: 2.5%;
+    
+}
+
+.hello{
+    justify-content: left;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+.welcome{
+    
+    margin-top: 5%;
+    padding: 3%;
+    background-color:rgb(36, 36, 36);
+    color: white;
+    text-transform:capitalize;
+    text-align: center;
+    
+}
+
+.resident{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.better{
+    display: flex;
+    margin-top: 5%;
+    
+}
+
+.descript{
+    margin-left: 20%;
+}
+
+.max{
+    margin-top: 2%;
+    width: 100%;
+    padding: 15em;
+    color: black;
+    text-decoration: wavy;
+    text-align: center;
+    background-color: rgb(235, 235, 235);
+  }
+
+
+
+.copyright{
+    margin-top: 2%;
+    width: 100%;
+    padding: 2em;
+    color: white;
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+  }
