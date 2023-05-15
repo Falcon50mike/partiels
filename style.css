@@ -1,7 +1,9 @@
+
 .princip{
     
     background-color:rgb(36, 36, 36);
     display: flex;
+    justify-content: right;
     padding: 50%;
 }
 
@@ -34,10 +36,9 @@
 }
 
 .resident{
-    margin-top: 10%;
     display: flex;
     justify-content: center;
-
+    margin-top: 5%;
 }
 
 .better{
